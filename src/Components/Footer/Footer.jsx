@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
-import Icon from "../../assets/icon.png";
+import Icon from "../../assets/Icon.png";
 import Apple from "../../assets/Apple.png";
 import PlayStor from "../../assets/play.png";
 
