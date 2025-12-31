@@ -49,7 +49,7 @@ const SupportDropdown = () => {
             />
             <input
               type="email"
-              name="email"
+              name="email" 
               placeholder="Your Email"
               value={formData.email}
               onChange={handleChange}
